@@ -1,0 +1,112 @@
+{
+
+    "guildid": "",
+    "clientid": "",
+    "version": "",
+
+    "role_membre": "",
+    "role_support": "",
+    "recrurole": "",
+
+    "footer": {
+        "text": ""
+    },
+
+	"statentrechan": "",
+    "statentreopen": "🟢 Ouverte",
+    "statentreclose": "🔴 Fermée",
+
+    
+    "aviss": [{
+            "label": "Expérience",
+            "description": "Bonne Expérience",
+            "value": "form_pos_exp",
+            "emoji": "✅"
+        },
+        {
+            "label": "Expérience",
+            "description": "Mauvaise Expérience",
+            "value": "form_neg_exp",
+            "emoji": "❌"
+        },
+        {
+            "label": "Motivations",
+            "description": "Bonne motivations",
+            "value": "form_pos_motiv",
+            "emoji": "✅"
+        },
+        {
+            "label": "Motivations",
+            "description": "Mauvaise motivations",
+            "value": "form_neg_motiv",
+            "emoji": "❌"
+        },
+        {
+            "label": "Pourquoi Vous",
+            "description": "Bonnes raisons",
+            "value": "form_pos_old",
+            "emoji": "✅"
+        },
+        {
+            "label": "Pourquoi Vous",
+            "description": "Mauvaises raisons",
+            "value": "form_neg_old",
+            "emoji": "❌"
+        },
+        {
+            "label": "Histoire RolePlay",
+            "description": "Bonne Histoire",
+            "value": "form_pos_rules",
+            "emoji": "✅"
+        },
+        {
+            "label": "Histoire RolePlay",
+            "description": "Mauvaise Histoire",
+            "value": "form_neg_rules",
+            "emoji": "❌"
+        }
+    ],
+
+
+    "tickettrans": "",
+    "ticketcat" : "",
+    "ticket": [{
+            "label": "Question",
+            "description": "Une question ? Pose la nous.",
+            "value": "ticket_questions",
+            "emoji": "❓"
+        },
+        {
+            "label": "Prendre un rendez vous",
+            "description": "Vous cherchez un rendez vous ?",
+            "value": "ticket_autre",
+            "emoji": "📡"
+        }
+    ],
+
+
+    "calcul": [
+
+        {
+            "name": "2+2",
+            "q": "4"
+        },
+        {
+            "name": "2+3",
+            "q": "5"
+        },
+        {
+            "name": "8+2",
+            "q": "10"
+        },
+        {
+            "name": "Quel est le chiffre après 1509",
+            "q": "1510"
+        }
+    ],
+
+
+    "categcandid": "",
+    "transcriptchan": ""
+
+}
